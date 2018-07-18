@@ -19,13 +19,13 @@ Googlytics	KEYWORD1
 #######################################
 # Constants (LITERAL1)
 #######################################
-PayloadType
-pageview
-pageview
-screenview
-event
-transaction
-item
-social
-exception
-timing
+PayloadType	LITERAL1
+pageview	LITERAL1
+pageview	LITERAL1
+screenview	LITERAL1
+event	LITERAL1
+transaction	LITERAL1
+item	LITERAL1
+social	LITERAL1
+exception	LITERAL1
+timing	LITERAL1
